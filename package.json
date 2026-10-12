@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anzal1/voila.git"
+    "url": "git+https://github.com/halleylabs/voila.git"
   },
   "homepage": "https://voila.anzalabidi.dev",
   "author": "Anzal Abidi (https://anzalabidi.dev)",

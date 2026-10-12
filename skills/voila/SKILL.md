@@ -23,7 +23,7 @@ npx -y voila-recorder rerender <dir> --voice bf_emma
 ```
 
 Register the MCP server once with: `claude mcp add voila -- npx -y voila-recorder mcp`
-Reference: https://voila.anzalabidi.dev/llms.txt · https://github.com/anzal1/voila
+Reference: https://voila.anzalabidi.dev/llms.txt · https://github.com/halleylabs/voila
 
 ## Workflow — always this loop
 

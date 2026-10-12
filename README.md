@@ -1,6 +1,8 @@
 # voila.
 
-[![ci](https://github.com/anzal1/voila/actions/workflows/ci.yml/badge.svg)](https://github.com/anzal1/voila/actions/workflows/ci.yml)
+<sub>A <a href="https://halleylabs.dev">Halley</a> project</sub>
+
+[![ci](https://github.com/halleylabs/voila/actions/workflows/ci.yml/badge.svg)](https://github.com/halleylabs/voila/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/voila-recorder)](https://www.npmjs.com/package/voila-recorder)
 
 **Demos that record themselves.** Paste a URL, get a narrated, zoom-animated

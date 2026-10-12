@@ -63,7 +63,7 @@
 
 - action: slide
   title: "Recorded by itself."
-  subtitle: "voila — github.com/anzal1/voila"
+  subtitle: "voila — github.com/halleylabs/voila"
   accent: "#c87840"
   narration: "voila. This video was recorded by the thing it is about."
   ms: 4200

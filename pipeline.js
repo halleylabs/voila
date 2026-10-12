@@ -26,7 +26,7 @@ function buildRecipe({ url, mode, steps, meta }) {
       caption: s.caption,
       narration: s.narration,
     })),
-    howToRecreate: 'Run the steps against the url with voila (github.com/anzal1/voila) — voila_record(url, steps_yaml) via MCP, or `voila record <url> --steps <file>`.',
+    howToRecreate: 'Run the steps against the url with voila (github.com/halleylabs/voila) — voila_record(url, steps_yaml) via MCP, or `voila record <url> --steps <file>`.',
   };
 }
 

@@ -3,7 +3,7 @@
 voila records narrated, zoom-animated product demo videos of websites.
 It renders the site in its own Chromium (no screen capture, no OS permission),
 narrates with on-device TTS (Kokoro-82M), and embeds the demo's source recipe
-inside the MP4 (spec: voila-recipe/1). Repo: https://github.com/anzal1/voila
+inside the MP4 (spec: voila-recipe/1). Repo: https://github.com/halleylabs/voila
 
 ## Install (pick your harness)
 

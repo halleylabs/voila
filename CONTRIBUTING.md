@@ -5,7 +5,7 @@ Thanks for taking a look. Issues and pull requests are both welcome.
 ## Running it locally
 
 ```bash
-git clone https://github.com/anzal1/voila.git
+git clone https://github.com/halleylabs/voila.git
 cd voila
 npm install
 node cli.js doctor                      # downloads chromium + the voice model
